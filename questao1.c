@@ -2,6 +2,8 @@
 
 
 
+//professor tentei de toda forma possivel essa, foi o mais perto que conseguir chegar
+
 #include <stdio.h>
 
 int main() {
@@ -21,6 +23,9 @@ int main() {
     } else  {
         printf(" nao houve Copa do Mundo de Futebol no ano de %d\n", ano);
     }
+
+    return 0;
+}
 
     return 0;
 }
